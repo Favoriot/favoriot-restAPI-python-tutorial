@@ -7,9 +7,9 @@ tutorial to send data stream using mqtt protocol in python
 # start:
   python streams.py
   
-mqtt publish : accesstoken + '/v2/streams'
-
-mqtt subscribe : accesstoken + '/v2/streams/status'
+# Topic:
+mqtt publish : yourapikey + '/v2/streams'
+mqtt subscribe : yourapikey + '/v2/streams/status'
   
 # In this code, you need to change TWO things:
  *    1. Your 'Access Token' (can be obtained from devices in favoriot platform)
