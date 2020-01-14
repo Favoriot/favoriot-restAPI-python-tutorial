@@ -12,6 +12,9 @@ tutorial to send data stream using restApi http protocol in python
  *    2. Your device developer ID (can be obtained from devices in favoriot platform)
  
  # how to get access token
- https://platform.favoriot.com/tutorial/v2/#device-access-token
+ **link: https://platform.favoriot.com/tutorial/v2/#device-access-token**
+ 
+ # Issues or feedback
+ **link: https://www.favoriot.com/forum**
  
  
